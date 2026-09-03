@@ -1,2 +1,30 @@
-Last updated: 2026-09-03 06:31:04 WIB
-Last updated: 2026-09-03 06:31:34 WIB
+# php_codeIgniter
+
+
+
+## 📋 Overview
+
+This repository contains **4950 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-03 07:04:45 WIB*
